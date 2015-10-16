@@ -1,0 +1,1 @@
+To rotate camera, click and drag. 
